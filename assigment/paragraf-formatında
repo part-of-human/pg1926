@@ -1,0 +1,103 @@
+<h3 id="a8" class="white">  </h3>
+            <h3 id="b8" class="black">  </h3>
+            <h3 id="c8" class="white">  </h3>
+            <h3 id="d8" class="black">  </h3>
+            <h3 id="e8" class="white">  </h3>
+            <h3 id="f8" class="black">  </h3>
+            <h3 id="g8" class="white">  </h3>
+            <h3 id="h8" class="black">  </h3>
+            <h1 id="x8" class="sayi">8</h1>
+            <br> </tr>
+
+            <tr>
+            <h3 id="a7" class="black">  </h3>
+            <h3 id="b7" class="white">  </h3>
+            <h3 id="c7" class="black">  </h3>
+            <h3 id="d7" class="white">  </h3>
+            <h3 id="e7" class="black">  </h3>
+            <h3 id="f7" class="white">  </h3>
+            <h3 id="g7" class="black">  </h3>
+            <h3 id="h7" class="white">  </h3>
+            <h1 id="x7" class="sayi">7</h1>
+            <br> </tr>
+
+            <tr>
+            <h3 id="a6" class="white">  </h3>
+            <h3 id="b6" class="black">  </h3>
+            <h3 id="c6" class="white">  </h3>
+            <h3 id="d6" class="black">  </h3>
+            <h3 id="e6" class="white">  </h3>
+            <h3 id="f6" class="black">  </h3>
+            <h3 id="g6" class="white">  </h3>
+            <h3 id="h6" class="black">  </h3>
+            <h1 id="x6" class="sayi">6</h1>
+            <br> </tr>
+
+            <tr>
+            <h3 id="a5" class="black">  </h3>
+            <h3 id="b5" class="white">  </h3>
+            <h3 id="c5" class="black">  </h3>
+            <h3 id="d5" class="white">  </h3>
+            <h3 id="e5" class="black">  </h3>
+            <h3 id="f5" class="white">  </h3>
+            <h3 id="g5" class="black">  </h3>
+            <h3 id="h5" class="white">  </h3>
+            <h1 id="x5" class="sayi">5</h1>
+            <br> </tr>
+
+            <tr>
+            <h3 id="a4" class="white">  </h3>
+            <h3 id="b4" class="black">  </h3>
+            <h3 id="c4" class="white">  </h3>
+            <h3 id="d4" class="black">  </h3>
+            <h3 id="e4" class="white">  </h3>
+            <h3 id="f4" class="black">  </h3>
+            <h3 id="g4" class="white">  </h3>
+            <h3 id="h4" class="black">  </h3>
+            <h1 id="x4" class="sayi">4</h1>
+            <br> </tr>
+
+            <tr>
+            <h3 id="a3" class="black">  </h3>
+            <h3 id="b3" class="white">  </h3>
+            <h3 id="c3" class="black">  </h3>
+            <h3 id="d3" class="white">  </h3>
+            <h3 id="e3" class="black">  </h3>
+            <h3 id="f3" class="white">  </h3>
+            <h3 id="g3" class="black">  </h3>
+            <h3 id="h3" class="white">  </h3>
+            <h1 id="x3" class="sayi">3</h1>
+            <br> </tr>
+
+            <tr>
+            <h3 id="a2" class="white">  </h3>
+            <h3 id="b2" class="black">  </h3>
+            <h3 id="c2" class="white">  </h3>
+            <h3 id="d2" class="black">  </h3>
+            <h3 id="e2" class="white">  </h3>
+            <h3 id="f2" class="black">  </h3>
+            <h3 id="g2" class="white">  </h3>
+            <h3 id="h2" class="black">  </h3>
+            <h1 id="x2" class="sayi">2</h1>
+            <br></tr>
+
+            <tr>
+            <h3 id="a1" class="black">  </h3>
+            <h3 id="b1" class="white">  </h3>
+            <h3 id="c1" class="black">  </h3>
+            <h3 id="d1" class="white">  </h3>
+            <h3 id="e1" class="black">  </h3>
+            <h3 id="f1" class="white">  </h3>
+            <h3 id="g1" class="black">  </h3>
+            <h3 id="h1" class="white">  </h3>
+            <h1 id="x1" class="sayi">1</h1>
+            <br></tr>
+
+            <h1 id="a" class="harf">a</h1>
+            <h1 id="b" class="harf">b</h1>
+            <h1 id="c" class="harf">c</h1>
+            <h1 id="d" class="harf">d</h1>
+            <h1 id="e" class="harf">e</h1>
+            <h1 id="f" class="harf">f</h1>
+            <h1 id="g" class="harf">g</h1>
+            <h1 id="h" class="harf">h</h1>
