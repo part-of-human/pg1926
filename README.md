@@ -1,3 +1,4 @@
 assigment dosyası -> satranç ödevi
 colab kopyası -> python ödevleri
-apg1926 dosyası -> php ödevleri
+pg1926 dosyası -> php ödevleri
+proje dosyası -> proje ödevi
