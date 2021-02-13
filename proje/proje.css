@@ -1,0 +1,26 @@
+body
+{
+    background: #999CFF;
+    background: -webkit-gradient(linear, 0 0, 0 bottom, from(#999CFF), to(#FAFBF9));
+    background: -webkit-linear-gradient(#999CFF, #FAFBF9);
+    background: -moz-linear-gradient(#999CFF, #FAFBF9);
+    background: -ms-linear-gradient(#999CFF, #FAFBF9);
+    background: -o-linear-gradient(#999CFF, #FAFBF9);
+    background: linear-gradient(#999CFF, #FAFBF9);
+}
+
+
+.onayla {
+    background-color: grey;
+    color: black;
+}
+
+.bilgilendirme {
+    background_color: grey;
+    color: black;
+}
+
+.tarih {
+    background-color: grey;
+    color:black;
+}
